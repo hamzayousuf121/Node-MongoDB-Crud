@@ -1,2 +1,2 @@
 # Node-MongoDB-Crud
-Developed Todo App on MERN Stack Technology React.js, Node.js, Express.js, And MongoDB.
+Developed Todo App on Node.js, Express.js, And MongoDB.
